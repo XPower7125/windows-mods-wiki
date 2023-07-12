@@ -4,3 +4,10 @@ The first build was released to archive.org on October 1st 2022.
 
 ## Base OS
 Versions between 1 and 1.1 are based on the RTM build of Windows 11 22H2 (22621.382) while version 2 and above are based on build 22621.819.
+
+## Changes from Windows 11 22H2
+- Almost all UWP apps are gone.
+- New wallpaper and branding
+- New setup background and branding
+- All requirements are skipped in the setup
+- Offline account support in the OOBE
