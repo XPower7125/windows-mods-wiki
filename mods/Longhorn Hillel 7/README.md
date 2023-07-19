@@ -1,3 +1,9 @@
+---
+layout: default
+title: Longhorn Hillel 7
+parent: Mods
+nav_order: 2
+---
 # Longhorn Hillel 7
 Longhorn Hillel 7 is a Windows mod made by Ojas that aims to make Windows 7 look like the Windows Longhorn build 4096 concept.
 
