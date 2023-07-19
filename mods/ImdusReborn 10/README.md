@@ -1,3 +1,9 @@
+---
+layout: default
+title: ImdusReborn 10
+parent: Mods
+nav_order: 2
+---
 # ImdusReborn 10
 
 ImdusReborn 10 is a Windows mod made by XPower7125 that aims to revive Imdus10 and make Windows 10 a usable OS.
