@@ -1,9 +1,9 @@
-...
+---
 layout: default
 title: Aero10
 parent: Mods
 nav_order: 2
-...
+---
 # Aero10
 Aero10 is a Windows 10 mod made by RedEyeComputing that aims to give Windows 10 an aero look.
 
